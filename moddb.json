@@ -13,5 +13,18 @@
                 "minecraft": "< 1.16.20"
             }
         }
+    },
+    {
+        "name": "mcpelauncher-dcblock",
+        "description": "Mod that blocks double clicking so you don't get banned from servers like zeqa.",
+        "versions": {
+            "3.0.1": {
+                "assets": {
+                    "arm64-v8a": "https://github.com/GameParrot/mcpelauncher-dcblock/releases/download/3.0.1/dcblock-android-arm64-v8a.zip",
+                    "x86_64": "https://github.com/GameParrot/mcpelauncher-dcblock/releases/download/3.0.1/dcblock-android-x86_64.zip"
+                },
+                "minecraft": "> 1.14.60"
+            }
+        }
     }
 ]
