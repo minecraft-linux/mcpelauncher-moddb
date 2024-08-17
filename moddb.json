@@ -30,5 +30,20 @@
                 "minecraft": "> 1.14.60"
             }
         ]
-    }
+    },
+    {
+        "name": "mcpelauncher-fullbright",
+        "description": "A mod for mcpelauncher amd64 that increases brightness.",
+        "url": "https://github.com/CrackedMatter/mcpelauncher-fullbright",
+        "image": "https://avatars.githubusercontent.com/u/81803926?v=4&size=89",
+        "versions": [
+            {
+                "version": "1.0.0",
+                "assets": {
+                    "x86_64": "https://github.com/CrackedMatter/mcpelauncher-fullbright/releases/download/v1/libfullbright.so"
+                }
+            }
+        ]
+    },
+    
 ]
