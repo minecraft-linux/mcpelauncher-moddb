@@ -3,6 +3,7 @@
         "name": "mcpelauncherlegacy",
         "description": "Includes parts of removed code from the codebase back as an external mod, works for Minecraft below 1.16.20",
         "url": "https://github.com/ChristopherHX/mcpelauncherlegacy",
+        "image": "https://avatars.githubusercontent.com/u/44845461?v=4",
         "versions": [
             {
                 "version": "0.0.3",
@@ -20,6 +21,7 @@
         "name": "mcpelauncher-dcblock",
         "description": "Mod that blocks double clicking so you don't get banned from servers like zeqa.",
         "url": "https://github.com/GameParrot/mcpelauncher-dcblock",
+        "image": "https://avatars.githubusercontent.com/u/85067619?v=4",
         "versions": [
             {
                 "version": "3.0.1",
@@ -35,7 +37,7 @@
         "name": "mcpelauncher-fullbright",
         "description": "A mod for mcpelauncher amd64 that increases brightness.",
         "url": "https://github.com/CrackedMatter/mcpelauncher-fullbright",
-        "image": "https://avatars.githubusercontent.com/u/81803926?v=4&size=89",
+        "image": "https://avatars.githubusercontent.com/u/81803926?v=4",
         "versions": [
             {
                 "version": "1.0.0",
