@@ -46,5 +46,13 @@
                 }
             }
         ]
+    },
+    {
+        "name": "mcpelauncher-imgui-fps-hud",
+        "description": "A mod for mcpelauncher that provided early access to an fps hud that is now accessible by the menubar.\nExplore the source code if you want to render overlays above the game",
+        "url": "https://github.com/ChristopherHX/mcpelauncher-imgui-fps-hud",
+        "image": "https://avatars.githubusercontent.com/u/44845461?v=4",
+        "versions": [
+        ]
     }
 ]
