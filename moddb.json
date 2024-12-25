@@ -30,6 +30,14 @@
                     "x86_64": "https://github.com/GameParrot/mcpelauncher-dcblock/releases/download/3.0.1/dcblock-android-x86_64.zip"
                 },
                 "minecraft": "> 1.14.60"
+            },
+            {
+                "version": "4.0",
+                "assets": {
+                    "arm64-v8a": "https://github.com/GameParrot/mcpelauncher-dcblock/releases/download/4.0/dcblock-android-arm64-v8a.zip",
+                    "x86_64": "https://github.com/GameParrot/mcpelauncher-dcblock/releases/download/4.0/dcblock-android-x86_64.zip"
+                },
+                "minecraft": "> 1.20.50"
             }
         ]
     },
