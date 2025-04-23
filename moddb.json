@@ -105,7 +105,7 @@
     },
     {
         "name": "mcpelauncher-strafe-sprint-fix",
-        "description": "A mod for mcpelauncher that allows you to sprint while sprinting on Intel CPUs.",
+        "description": "A mod for mcpelauncher that allows you to sprint while strafing on Intel CPUs.",
         "url": "https://github.com/CrackedMatter/mcpelauncher-strafe-sprint-fix",
         "image": "https://avatars.githubusercontent.com/u/81803926?v=4",
         "versions": [
