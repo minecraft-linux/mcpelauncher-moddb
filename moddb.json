@@ -56,6 +56,76 @@
         ]
     },
     {
+        "name": "mcpelauncher-zoom",
+        "description": "A mod for mcpelauncher that adds zoom.",
+        "url": "https://github.com/GameParrot/mcpelauncher-zoom",
+        "image": "https://avatars.githubusercontent.com/u/85067619?v=4",
+        "versions": [
+            {
+                "version": "1.0",
+                "assets": {
+                    "arm64-v8a": "https://github.com/GameParrot/mcpelauncher-zoom/releases/download/v1.0/zoom-android-arm64-v8a.zip",
+                    "x86_64": "https://github.com/GameParrot/mcpelauncher-zoom/releases/download/v1.0/zoom-android-x86_64.zip"
+                },
+                "minecraft": "> 1.20.999"
+            }
+        ]
+    },
+    {
+        "name": "mcpelauncher-snaplook",
+        "description": "A mod for mcpelauncher that adds snaplook (quickly hold a key to switch to third person front POV).",
+        "url": "https://github.com/GameParrot/mcpelauncher-snaplook",
+        "image": "https://avatars.githubusercontent.com/u/85067619?v=4",
+        "versions": [
+            {
+                "version": "1.0",
+                "assets": {
+                    "arm64-v8a": "https://github.com/GameParrot/mcpelauncher-snaplook/releases/download/v1.0/snaplook-android-arm64-v8a.zip",
+                    "x86_64": "https://github.com/GameParrot/mcpelauncher-snaplook/releases/download/v1.0/snaplook-android-x86_64.zip"
+                },
+                "minecraft": "> 1.20.999"
+            }
+        ]
+    },
+    {
+        "name": "mcpelauncher-nohurtcam",
+        "description": "Basic \"No Hurt Cam\" mod for mcpelauncher",
+        "url": "https://github.com/GameParrot/mcpelauncher-nohurtcam",
+        "image": "https://avatars.githubusercontent.com/u/85067619?v=4",
+        "versions": [
+            {
+                "version": "1.0",
+                "assets": {
+                    "arm64-v8a": "https://github.com/GameParrot/mcpelauncher-nohurtcam/releases/download/v1.0/nohurtcam.arm64-v8a.zip",
+                    "x86_64": "https://github.com/GameParrot/mcpelauncher-nohurtcam/releases/download/v1.0/nohurtcam.x86_64.zip"
+                },
+                "minecraft": "> 1.18.10"
+            },
+            {
+                "version": "2.0",
+                "assets": {
+                    "arm64-v8a": "https://github.com/GameParrot/mcpelauncher-nohurtcam/releases/download/v2.0/nohurtcam-arm64-v8a.zip",
+                    "x86_64": "https://github.com/GameParrot/mcpelauncher-nohurtcam/releases/download/v2.0/nohurtcam-x86_64.zip"
+                },
+                "minecraft": "> 1.20.49"
+            }
+        ]
+    },
+    {
+        "name": "mcpelauncher-strafe-sprint-fix ",
+        "description": "A mod for mcpelauncher that allows you to sprint while sprinting on Intel CPUs.",
+        "url": "https://github.com/CrackedMatter/mcpelauncher-strafe-sprint-fix",
+        "image": "https://avatars.githubusercontent.com/u/81803926?v=4",
+        "versions": [
+            {
+                "version": "1.0.0",
+                "assets": {
+                    "x86_64": "https://github.com/CrackedMatter/mcpelauncher-strafe-sprint-fix/releases/download/v1/libmcpelauncherstrafesprintfix.so"
+                }
+            }
+        ]
+    },
+    {
         "name": "mcpelauncher-imgui-fps-hud",
         "description": "A mod for mcpelauncher that provided early access to an fps hud that is now accessible by the menubar.\nExplore the source code if you want to render overlays above the game",
         "url": "https://github.com/ChristopherHX/mcpelauncher-imgui-fps-hud",
