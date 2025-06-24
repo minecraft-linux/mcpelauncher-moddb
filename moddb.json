@@ -40,9 +40,9 @@
         "image": "https://avatars.githubusercontent.com/u/81803926?v=4",
         "versions": [
             {
-                "version": "1.0.0",
+                "version": "1.2.0",
                 "assets": {
-                    "x86_64": "https://github.com/CrackedMatter/mcpelauncher-fullbright/releases/download/v1/libfullbright.so"
+                    "x86_64": "https://github.com/CrackedMatter/mcpelauncher-fullbright/releases/download/v1.2/libfullbright.so"
                 }
             }
         ]
@@ -110,9 +110,9 @@
         "image": "https://avatars.githubusercontent.com/u/81803926?v=4",
         "versions": [
             {
-                "version": "1.0.0",
+                "version": "1.1.0",
                 "assets": {
-                    "x86_64": "https://github.com/CrackedMatter/mcpelauncher-strafe-sprint-fix/releases/download/v1/libmcpelauncherstrafesprintfix.so"
+                    "x86_64": "https://github.com/CrackedMatter/mcpelauncher-strafe-sprint-fix/releases/download/v1.1/libmcpelauncherstrafesprintfix.so"
                 }
             }
         ]
