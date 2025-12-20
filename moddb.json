@@ -140,5 +140,21 @@
                 }
             }
         ]
+    },
+    {
+        "name": "mcpelauncher-cheatlesstweaks",
+        "description": "Allows changing selected gamerules without enabling cheats or disabling achievements.",
+        "url": "https://github.com/Kashifro/mcpelauncher-cheatlesstweaks",
+        "image": "https://avatars.githubusercontent.com/u/85724195?v=4",
+        "versions": [
+            {
+                "version": "1.0.0",
+                "assets": {
+                    "x86_64": "https://github.com/Kashifro/mcpelauncher-cheatlesstweaks/releases/download/v1/libmcpelauncher-cheatlesstweaks.so"
+                },
+                "minecraft": " > 1.21.114"
+            }
+        ]
     }
+
 ]
