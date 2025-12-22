@@ -164,11 +164,11 @@
         "image": "https://avatars.githubusercontent.com/u/85724195?v=4",
         "versions": [
             {
-                "version": "1.0.0",
+                "version": "1.0.1",
                 "assets": {
-                    "x86_64": "https://github.com/Kashifro/mcpelauncher-cheatlesstweaks/releases/download/v1/libmcpelauncher-cheatlesstweaks.so"
+                    "x86_64": "https://github.com/Kashifro/mcpelauncher-cheatlesstweaks/releases/download/v1.01/libmcpelauncher-cheatlesstweaks.so"
                 },
-                "minecraft": " > 1.21.114"
+                "minecraft": " > 1.21.113"
             }
         ]
     }
