@@ -259,6 +259,21 @@
                 "minecraft": " > 1.21.113"
             }
         ]
+    },
+    {
+    "name": "mcpelauncher-shulkerpreview",
+    "description": "A Shulker Box Preview Mod",
+    "url": "https://github.com/Kashifro/mcpelauncher-shulkprev",
+    "image": "https://raw.githubusercontent.com/Kashifro/mcpelauncher-shulkprev/main/ShulkerBoxPrevIcon.png",
+    "versions": [
+        {
+            "version": "26.0.2",
+            "assets": {
+                "x86_64": "https://github.com/Kashifro/mcpelauncher-shulkprev/releases/download/v1/libshulke.so"
+            },
+            "minecraft": ">= 1.21.121"
+        }
+    ]
     }
 
 ]
