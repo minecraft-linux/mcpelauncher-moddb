@@ -256,7 +256,7 @@
                 "assets": {
                     "x86_64": "https://github.com/Kashifro/mcpelauncher-cheatlesstweaks/releases/download/v1.01/libmcpelauncher-cheatlesstweaks.so"
                 },
-                "minecraft": " > 1.21.113"
+                "minecraft": "> 1.21.113"
             }
         ]
     },
