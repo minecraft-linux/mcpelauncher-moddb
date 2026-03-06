@@ -216,8 +216,7 @@
         "description": "A mod for mcpelauncher that provided early access to an fps hud that is now accessible by the menubar.\nExplore the source code if you want to render overlays above the game",
         "url": "https://github.com/ChristopherHX/mcpelauncher-imgui-fps-hud",
         "image": "https://avatars.githubusercontent.com/u/44845461?v=4",
-        "versions": [
-        ]
+        "versions": []
     },
     {
         "name": "build-limit-changer",
@@ -261,19 +260,18 @@
         ]
     },
     {
-    "name": "mcpelauncher-shulkerpreview",
-    "description": "A Shulker Box Preview Mod",
-    "url": "https://github.com/Kashifro/mcpelauncher-shulkprev",
-    "image": "https://raw.githubusercontent.com/Kashifro/mcpelauncher-shulkprev/main/ShulkerBoxPrevIcon.png",
-    "versions": [
-        {
-            "version": "26.0.2",
-            "assets": {
-                "x86_64": "https://github.com/Kashifro/mcpelauncher-shulkprev/releases/download/v1/libshulke.so"
-            },
-            "minecraft": ">= 1.21.121"
-        }
-    ]
+        "name": "mcpelauncher-shulkerpreview",
+        "description": "A Shulker Box Preview Mod",
+        "url": "https://github.com/Kashifro/mcpelauncher-shulkprev",
+        "image": "https://raw.githubusercontent.com/Kashifro/mcpelauncher-shulkprev/main/ShulkerBoxPrevIcon.png",
+        "versions": [
+            {
+                "version": "26.0.2",
+                "assets": {
+                    "x86_64": "https://github.com/Kashifro/mcpelauncher-shulkprev/releases/download/v1/libshulke.so"
+                },
+                "minecraft": ">= 1.21.121"
+            }
+        ]
     }
-
 ]
