@@ -888,6 +888,13 @@
                 "assets": {
                     "x86_64": "https://github.com/CrackedMatter/mcpelauncher-fullbright/releases/download/v1.2/libfullbright.so"
                 }
+            },
+            {
+                "version": "2.0.0",
+                "assets": {
+                    "arm64-v8a": "https://github.com/CrackedMatter/mcpelauncher-fullbright/releases/download/v2/libfullbright-arm64-v8a.zip",
+                    "x86_64": "https://github.com/CrackedMatter/mcpelauncher-fullbright/releases/download/v2/libfullbright-x86-64.zip"
+                }
             }
         ]
     },
