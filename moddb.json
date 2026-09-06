@@ -1439,5 +1439,21 @@
                 "minecraft": ">= 1.21.121"
             }
         ]
+    },
+    {
+        "name": "EnchantUnbound",
+        "description": "A mod that removes vanilla enchantment restrictions, allowing incompatible enchantments such as Infinity + Mending and all four types of Protection to be combined",
+        "url": "https://github.com/TANGY009/EnchantUnbound",
+        "image": "https://raw.githubusercontent.com/TANGY009/EnchantUnbound/main/icon.png",
+        "versions": [
+            {
+                "version": "1.1.2",
+                "assets": {
+                    "arm64-v8a": "https://github.com/TANGY009/EnchantUnbound/releases/download/v1.1.2/android-arm64-EnchantUnbound.so",
+                    "x86_64": "https://github.com/TANGY009/EnchantUnbound/releases/download/v1.1.2/android-x86_64-EnchantUnbound.so"
+                },
+                "minecraft": ">= 1.16.210"
+            }
+        ]
     }
 ]
